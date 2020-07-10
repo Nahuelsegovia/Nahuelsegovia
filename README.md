@@ -1,4 +1,4 @@
-<b>Hola</b>
+<b>¡Hola!</b>
 
 Soy <b>Nahuel Segovia</b>, <b>Developer</b> <b>y entusiasta de la seguridad web autodidacta</b>, mis skills más importantes están del lado de la programación Backend y cuento con conocimientos
 en lenguajes de programación como Javascript, Python y PHP. Actualmente me encuentro trabajando de forma Freelance para varios proyectos en distintas provincias del país.
